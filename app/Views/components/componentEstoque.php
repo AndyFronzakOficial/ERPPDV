@@ -1,12 +1,12 @@
 <div class="card text-center bg-dark text-light">
     <div class="card-header">
-        Vendas
+        Estoque
     </div>
     <div class="card-body ">
         <div class="accordion accordion-flush " id="accordionFlushExample">
             <div class="accordion-item bg-dark">
                 <h2 class="accordion-header" id="flush-headingOne">
-                    <button class="accordion-button collapsed bg-dark text-light" type="button" data-bs-toggle="collapse" data-bs-target="#Flush-Vendas" aria-expanded="false" aria-controls="Flush-Vendas">
+                    <button class="accordion-button collapsed bg-dark text-light" type="button" data-bs-toggle="collapse" data-bs-target="#Flush-Estoque" aria-expanded="false" aria-controls="Flush-Estoque">
                         <h5 class="card-title">Valor caixa hoje. &nbsp 
 
                         </h5>
@@ -18,15 +18,15 @@
                             <path d="M11.297 9.176a3.5 3.5 0 0 0-4.474-4.474l.823.823a2.5 2.5 0 0 1 2.829 2.829l.822.822zm-2.943 1.299.822.822a3.5 3.5 0 0 1-4.474-4.474l.823.823a2.5 2.5 0 0 0 2.829 2.829z" />
                             <path d="M3.35 5.47c-.18.16-.353.322-.518.487A13.134 13.134 0 0 0 1.172 8l.195.288c.335.48.83 1.12 1.465 1.755C4.121 11.332 5.881 12.5 8 12.5c.716 0 1.39-.133 2.02-.36l.77.772A7.029 7.029 0 0 1 8 13.5C3 13.5 0 8 0 8s.939-1.721 2.641-3.238l.708.709zm10.296 8.884-12-12 .708-.708 12 12-.708.708z" />
                         </svg>
-                <div id="Flush-Vendas" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                <div id="Flush-Estoque" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        <p class="card-text">R$ 839,28</p>
+                        <p class="card-text">Lembre de reajustar o estoque sempre, Pois existe avarias e outros problemas que não pode ser automatizados.</p>
                     </div>
                 </div>
             </div>
         </div>
 
-        <a href="#" class="my-4 btn btn-primary">Abir o PDV</a>
+        <a href="#" class="my-4 btn btn-warning">Abir o Estoque</a>
     </div>
     <div class="card-footer text-muted">
         04/05/2022

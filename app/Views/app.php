@@ -26,7 +26,7 @@
       <?php require("components/header.php")  ?>
     </header>
     <section>
-      <?php require("components/header.php")  ?>
+      <?php require("components/section.php")  ?>
     </section>
     <footer>
 
