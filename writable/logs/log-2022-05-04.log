@@ -10,3 +10,135 @@ CRITICAL - 2022-05-04 02:55:28 --> The framework needs the following extension(s
 #2 C:\xampp\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
 #3 C:\xampp\htdocs\ERPPDV\public\index.php(28): require('C:\\xampp\\htdocs...')
 #4 {main}
+CRITICAL - 2022-05-04 03:13:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:14:04 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:19:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:21:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:21:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:23:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 03:25:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppi\htdocs\ERPPDV\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppi\htdocs\ERPPDV\public\index.php(28): require('C:\\xamppi\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-04 19:51:05 --> require(C:\xamppi\htdocs\ERPPDV\app\Views\components): failed to open stream: Permission denied
+#0 C:\xamppi\htdocs\ERPPDV\app\Views\app.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xamppi\\htdoc...', 19, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Views\app.php(19): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\View\View.php(210): include('C:\\xamppi\\htdoc...')
+#3 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('app', Array, true)
+#5 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(9): view('app')
+#6 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->principal()
+#7 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-05-04 19:51:05 --> require(C:\xamppi\htdocs\ERPPDV\app\Views\components): failed to open stream: Permission denied
+#0 C:\xamppi\htdocs\ERPPDV\app\Views\app.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xamppi\\htdoc...', 19, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Views\app.php(19): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\View\View.php(210): include('C:\\xamppi\\htdoc...')
+#3 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('app', Array, true)
+#5 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(9): view('app')
+#6 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->principal()
+#7 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-05-04 19:51:06 --> require(C:\xamppi\htdocs\ERPPDV\app\Views\components): failed to open stream: Permission denied
+#0 C:\xamppi\htdocs\ERPPDV\app\Views\app.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xamppi\\htdoc...', 19, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Views\app.php(19): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\View\View.php(210): include('C:\\xamppi\\htdoc...')
+#3 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('app', Array, true)
+#5 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(9): view('app')
+#6 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->principal()
+#7 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

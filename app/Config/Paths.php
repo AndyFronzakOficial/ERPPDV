@@ -10,9 +10,7 @@ namespace Config;
  *
  * Modifying these allows you to restructure your application,
  * share a system folder between multiple applications, and more.)
-Um _______ pode ser mais _______ que um tipo primitivo, por exemplo, o tipo ________ int, na linguagem C, ocupa no máximo 4 bytes (32 bits) e pode armazenar valores entre -2.147.483.648 a 2.147.483.647. Já o objeto do tipo int, na linguagem Python, não possui um limite definido, tal objeto fica limitado apenas a memória ______ disponível no ambiente.
 
-Escolha a opção que completa corretamente as lacunas.
 
 
  *
