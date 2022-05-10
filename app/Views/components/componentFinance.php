@@ -26,7 +26,7 @@
             </div>
         </div>
 
-        <a href="#" class="my-4 btn btn-success">Painel do financeiro</a>
+        <a href="index.php/home/financeiro" class="my-4 btn btn-success">Painel do financeiro</a>
     </div>
     <div class="card-footer text-muted">
         04/05/2022

@@ -2,16 +2,27 @@
 
 namespace App\Controllers;
 
+
 class Home extends BaseController
 {
-    public function principal()
-    {
-        return view('app');
-    }
+  public function Principal()
+  {
+    return view('app');
+  }
 
-    public function cliente()
-    {
-        echo "cliente";
-    }
-    
+  public function Estoque()
+  {
+
+    return view('estoque');
+  }
+  public function Financeiro()
+  {
+
+    return view('financeiro');
+  }
+  public function Caixa()
+  {
+
+    return view('caixa');
+  }
 }

@@ -26,7 +26,7 @@
             </div>
         </div>
 
-        <a href="#" class="my-4 btn btn-primary">Abir o PDV</a>
+        <a href="index.php/home/caixa" class="my-4 btn btn-primary">Abir o PDV</a>
     </div>
     <div class="card-footer text-muted">
         04/05/2022

@@ -1,0 +1,88 @@
+CRITICAL - 2022-05-09 19:01:28 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:09:30 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:40 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:41 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:41 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:41 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:41 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:42 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:42 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:42 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-09 19:10:42 --> require(../Views/pages/estoque.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../View...', 'C:\\xamppi\\htdoc...', 14, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(14): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->estoque()
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
