@@ -25,4 +25,9 @@ class Home extends BaseController
 
     return view('caixa');
   }
+  public function AdicionarProdutos()
+  {
+
+    return view('AdicionarProdutos');
+  }
 }

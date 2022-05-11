@@ -298,3 +298,63 @@ CRITICAL - 2022-05-10 18:36:56 --> Invalid file: estoque.php
 #5 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #6 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #7 {main}
+CRITICAL - 2022-05-10 19:08:11 --> syntax error, unexpected '?>'
+#0 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('estoque', Array, true)
+#2 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(16): view('estoque')
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->Estoque()
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-10 19:08:11 --> syntax error, unexpected '?>'
+#0 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('estoque', Array, true)
+#2 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(16): view('estoque')
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->Estoque()
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-10 19:08:11 --> syntax error, unexpected '?>'
+#0 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('estoque', Array, true)
+#2 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(16): view('estoque')
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->Estoque()
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-10 19:08:12 --> syntax error, unexpected '?>'
+#0 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('estoque', Array, true)
+#2 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(16): view('estoque')
+#3 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->Estoque()
+#4 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-10 19:53:01 --> require(components/form.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Views\AdicionarProdutos.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(compone...', 'C:\\xamppi\\htdoc...', 42, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Views\AdicionarProdutos.php(42): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\View\View.php(210): include('C:\\xamppi\\htdoc...')
+#3 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('AdicionarProdut...', Array, true)
+#5 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(31): view('AdicionarProdut...')
+#6 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->AdicionarProdutos()
+#7 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-05-10 19:53:01 --> require(components/form.php): failed to open stream: No such file or directory
+#0 C:\xamppi\htdocs\ERPPDV\app\Views\AdicionarProdutos.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(compone...', 'C:\\xamppi\\htdoc...', 42, Array)
+#1 C:\xamppi\htdocs\ERPPDV\app\Views\AdicionarProdutos.php(42): require()
+#2 C:\xamppi\htdocs\ERPPDV\system\View\View.php(210): include('C:\\xamppi\\htdoc...')
+#3 C:\xamppi\htdocs\ERPPDV\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xamppi\htdocs\ERPPDV\system\Common.php(1089): CodeIgniter\View\View->render('AdicionarProdut...', Array, true)
+#5 C:\xamppi\htdocs\ERPPDV\app\Controllers\Home.php(31): view('AdicionarProdut...')
+#6 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(832): App\Controllers\Home->AdicionarProdutos()
+#7 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xamppi\htdocs\ERPPDV\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xamppi\htdocs\ERPPDV\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

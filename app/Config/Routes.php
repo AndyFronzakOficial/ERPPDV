@@ -34,7 +34,7 @@ $routes->setAutoRoute(true);
 $routes->get    ('/', 'Home::Principal');
 $routes->add    ('home/estoque', 'Home::Estoque');
 $routes->add    ('home/financeiro', 'Home::Financeiro');
-
+$routes->add    ('home/AdicionarProdutos', 'Home::AdicionarProdutos');
 
 /*
  * --------------------------------------------------------------------
